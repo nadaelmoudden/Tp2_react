@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//nadaelmoudden.github.io/Tp2_react/static/css/main.36bbea22.css",
+    "main.js": "//nadaelmoudden.github.io/Tp2_react/static/js/main.43f9c5e7.js",
+    "static/js/787.92e6f27d.chunk.js": "//nadaelmoudden.github.io/Tp2_react/static/js/787.92e6f27d.chunk.js",
+    "index.html": "//nadaelmoudden.github.io/Tp2_react/index.html",
+    "main.36bbea22.css.map": "//nadaelmoudden.github.io/Tp2_react/static/css/main.36bbea22.css.map",
+    "main.43f9c5e7.js.map": "//nadaelmoudden.github.io/Tp2_react/static/js/main.43f9c5e7.js.map",
+    "787.92e6f27d.chunk.js.map": "//nadaelmoudden.github.io/Tp2_react/static/js/787.92e6f27d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36bbea22.css",
+    "static/js/main.43f9c5e7.js"
+  ]
+}
